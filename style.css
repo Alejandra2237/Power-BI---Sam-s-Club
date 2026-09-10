@@ -70,7 +70,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center;
+    text-align: justify;
     position: relative;
     margin-bottom: 20px;
     z-index: -2;
