@@ -1,1 +1,1 @@
-# Curso Power BI 2025
+# Curso Power BI 2026
